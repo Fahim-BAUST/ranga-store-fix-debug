@@ -14,24 +14,33 @@ body {
 }
 
 .search-box:hover{
-  background-color: black;
-  color: black;
+  background-color: rgb(14, 18, 19);
+  color: rgb(145, 184, 7);
   font-weight: 500;
+
 }
 
 .search-box {
   border: 1px solid rgb(3, 118, 211);
   width: 281px;
-  border-radius: 5px;
+  height: 35px;
+  border-radius: 25px;
   margin: auto;
   margin-top: 50px;
+
+ 
+  
   
   
 }
 .search-button {
   padding: 10px 50px;
-  border-radius: 25px;
-  margin-left: 24.5px;
+  border-radius: 50px !important;
+  float: right;
+}
+.search-button:hover {
+  outline: none;
+  border: none;
 }
 #top-section{
   margin-bottom: 30px;
