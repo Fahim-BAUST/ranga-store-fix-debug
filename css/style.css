@@ -38,10 +38,7 @@ body {
   border-radius: 50px !important;
   float: right;
 }
-.search-button:hover {
-  outline: none;
-  border: none;
-}
+
 #top-section{
   margin-bottom: 30px;
 }
